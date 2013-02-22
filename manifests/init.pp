@@ -1,4 +1,4 @@
-class open-sg {
+class open_sg {
 	include homebrew
 
 	homebrew::formula { 'open-sg':
