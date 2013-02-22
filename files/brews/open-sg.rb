@@ -1,6 +1,8 @@
 require 'formula'
 
 class OpenSg < Formula
+  url 'https://github.com/bilke/OpenSG-1.8/archive/1.8.zip'
+  md5 '96c47716406860b7c135c14df03924f0'
   head 'https://github.com/bilke/OpenSG-1.8.git'
   homepage 'http://www.opensg.org/wiki'
 
