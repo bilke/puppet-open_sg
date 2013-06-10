@@ -6,6 +6,6 @@ class open_sg {
 	}
 
 	package { 'boxen/brews/open-sg':
-		ensure => '1.8-boxen1',
+		ensure => '1.8-boxen2',
 	}
 }
